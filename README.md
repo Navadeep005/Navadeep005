@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Navadeep005
-- 👀 I’m interested in ethical hacking..
+- 👀 I’m interested in ethical AI Development...
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate with google..
 - 📫 How to reach me ...
